@@ -50,7 +50,7 @@ https://localhost:5001/api/Drug
 }
 ```
 3. **PUT**: Duplicate tag & SET **Raw** on Response _[200]_ 
-| Follow steps in the image.
+| Follow steps in the image. Edit String or Number, after just SEND
 
 <img src="https://github.com/William-io/Drug-App/blob/main/assets/images/Screenshot%202021-06-28%20192748.png" alt="Screenshot of experience in VS2019" title="Experience in VS2019" style="max-width:100%;">
 
